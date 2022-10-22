@@ -45,8 +45,6 @@ for subdir in dirpath:
         fullpath = full_subdir + image
         loadAndProcessImage(fullpath)
 
-        print (fullpath)
-        #loadAndProcessImage(SAVEDIR+'input.jpg', image)
 
 
 
